@@ -1,2 +1,1 @@
-# IN_COURSERA
-Course testing
+Course
